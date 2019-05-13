@@ -1,0 +1,10 @@
+/Users/esmerlinmieses/.nuget/packages/microsoft.aspnetcore.blazor/3.0.0-preview5-19227-01/lib/netstandard2.0/Microsoft.AspNetCore.Blazor.dll
+/Users/esmerlinmieses/.nuget/packages/microsoft.aspnetcore.components/3.0.0-preview5-19227-01/lib/netstandard2.0/Microsoft.AspNetCore.Components.dll
+/Users/esmerlinmieses/.nuget/packages/microsoft.aspnetcore.components.browser/3.0.0-preview5-19227-01/lib/netstandard2.0/Microsoft.AspNetCore.Components.Browser.dll
+/Users/esmerlinmieses/.nuget/packages/microsoft.extensions.dependencyinjection/3.0.0-preview5.19227.9/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/esmerlinmieses/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0-preview5.19227.9/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/esmerlinmieses/.nuget/packages/microsoft.jsinterop/3.0.0-preview5.19227.9/lib/netstandard2.0/Microsoft.JSInterop.dll
+/Users/esmerlinmieses/.nuget/packages/mono.webassembly.interop/3.0.0-preview5.19227.9/lib/netstandard2.0/Mono.WebAssembly.Interop.dll
+/Users/esmerlinmieses/.nuget/packages/system.componentmodel.annotations/4.6.0-preview5.19224.8/lib/netstandard2.0/System.ComponentModel.Annotations.dll
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.ComponentsLibrary/bin/Debug/netstandard2.0/BlazingPizza.ComponentsLibrary.dll
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.Shared.dll

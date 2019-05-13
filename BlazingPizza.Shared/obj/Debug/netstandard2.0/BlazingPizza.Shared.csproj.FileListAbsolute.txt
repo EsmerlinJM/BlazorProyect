@@ -1,0 +1,12 @@
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.Shared.deps.json
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.Shared.dll
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.Shared.pdb
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.ComponentsLibrary.dll
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/bin/Debug/netstandard2.0/BlazingPizza.ComponentsLibrary.pdb
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.csprojAssemblyReference.cache
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.AssemblyInfoInputs.cache
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.AssemblyInfo.cs
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.csproj.CopyComplete
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.dll
+/Users/esmerlinmieses/Personal Folder/C# Projects/BlazingPizza/BlazingPizza.Shared/obj/Debug/netstandard2.0/BlazingPizza.Shared.pdb
